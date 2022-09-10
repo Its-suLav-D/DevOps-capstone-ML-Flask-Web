@@ -1,5 +1,7 @@
 # Overview
 
+[![Build and deploy Python app to Azure Web App - PredictionMLsulav](https://github.com/Its-suLav-D/DevOps-capstone-ML-Flask-Web/actions/workflows/master_predictionmlsulav.yml/badge.svg)](https://github.com/Its-suLav-D/DevOps-capstone-ML-Flask-Web/actions/workflows/master_predictionmlsulav.yml)
+
 <TODO: complete this with an overview of your project>
 
 ## Project Plan
